@@ -1,1 +1,11 @@
 node_modules
+**/node_modules
+
+dist
+**/dist
+
+.env
+.env.local
+
+server/uploads
+server/data
